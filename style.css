@@ -1,0 +1,24 @@
+.navbar {
+  background-color: #d63384;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #ffabe9;
+}
+.aboutnadine {
+  background-color: #ffabe9;
+}
+.leader {
+  padding: 20px;
+  text-align: center;
+}
+.funfactnadine {
+  padding: 20px;
+}
+.card {
+  margin: auto;
+}
+.footer {
+  background-color: #ffabe9;
+  padding: 50px;
+}
